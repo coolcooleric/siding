@@ -2,8 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class ABPruning {
-		static class Node {//comment
-
+		static class Node {
 		private String id;
 		private int val = 0;
 		private List<Node> children = new ArrayList<Node>();
