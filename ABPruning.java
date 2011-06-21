@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class ABPruning {
-		static class Node {
+		static class Node {//comment
 
 		private String id;
 		private int val = 0;
