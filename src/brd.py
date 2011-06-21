@@ -1,9 +1,9 @@
 '''
 Created on 2010-11-8
 
-@author: Administrator
+@author: ericwang
 '''
-from Helper import Helper
+from helper import Helper
 class Brd(Helper):  
         
     def __init__(self, b, w):

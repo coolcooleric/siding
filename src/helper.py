@@ -1,7 +1,7 @@
 '''
 Created on 2010-11-14
 
-@author: Administrator
+@author: ericwang
 '''
 
 class Helper:

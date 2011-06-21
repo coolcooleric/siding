@@ -1,9 +1,9 @@
 '''
 Created on 2010-11-14
 
-@author: Administrator
+@author: ericwang
 '''
-from Helper import Helper
+from helper import Helper
 class Rule(Helper):
     @staticmethod        
     def refresh(to, now, next, brd):

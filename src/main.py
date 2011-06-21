@@ -1,13 +1,13 @@
 '''
 Created on 2010-11-14
 
-@author: Administrator
+@author: ericwang
 '''
-from Brd import Brd
-from Value import itDeep
-from Move import move
-from Rule import Rule
-from Helper import Helper
+from brd import Brd
+from value import itDeep
+from move import move
+from rule import Rule
+from helper import Helper
 
 def movew(frm, to, brd): 
     brd.w = move(frm, to, brd.w)

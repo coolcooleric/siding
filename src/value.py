@@ -1,12 +1,12 @@
 '''
 Created on 2010-11-14
 
-@author: Administrator
+@author: ericwang
 '''
-from Helper import Helper
-from Move import move
-from Brd import Brd
-from Rule import Rule
+from helper import Helper
+from move import move
+from brd import Brd
+from rule import Rule
 
 def calc(brd):
     if brd.b in Helper.p or brd.b == 0:

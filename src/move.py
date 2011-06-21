@@ -1,7 +1,7 @@
 '''
 Created on 2010-11-13
 
-@author: Administrator
+@author: ericwang
 '''
 def move(frm, to, s):
     '''
